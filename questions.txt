@@ -1,0 +1,13 @@
+1. Now since we can retrieve information about class varibales and constructors using reflections. Can we use it for tests purpose?
+
+2. Why constructors are still necessary for simple tasks like initializing variable values. Could we replace constructors with initializers?
+
+3. The @Override annotation ensures that a method in a subclass overrides a method in its superclass. How can you prevent specific methods in the superclass from being overwritten?
+
+4. Does the instance initializer get processed prior to or after the constructor?
+
+5. In Java, what steps are involved in establishing an abstract class?
+
+6. why might a programmer opt for multilevel inheritance of classes? as in under what circumstances?
+
+7. Is it possible to incorporate multiple main functions in a Maven code? How can we execute two tasks (two functions) simultaneously within the same application?
